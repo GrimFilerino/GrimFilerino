@@ -8,7 +8,7 @@ I am a full-time software engineer working with primarally web-development and l
 
 ## Links
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-grimfilerino?style=for-the-badge&logo=homebrew&logoColor=ffffff&logoSize=200&labelColor=7851A9&color=7851A9&cacheSeconds=1)](https://grimfilerino.com/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-grimfilerino?style=for-the-badge&logo=coffeescript&logoColor=ffffff&logoSize=200&labelColor=7851A9&color=7851A9&cacheSeconds=1)](https://grimfilerino.com/)
 
 [![linkedin](https://img.shields.io/badge/linkedin-grimfilerino?style=for-the-badge&logo=linked-in&logoColor=ffffff&logoSize=200&labelColor=0057BA&color=0057BA&cacheSeconds=1)](https://www.linkedin.com/in/grimfilerino)
 
