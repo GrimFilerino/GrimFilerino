@@ -14,7 +14,7 @@ I am a full-time software engineer working with primarally web-development and l
 
 ## Donate (I am poor)
 
-[![Buy me a beer](https://github.com/GrimFilerino/GrimFilerino/buymebeer.webp)](https://donate.stripe.com/28obKL8sbbgy0ow8ww)
+[![Buy me a beer](https://github.com/GrimFilerino/GrimFilerino/blob/main/buymebeer.webp)](https://donate.stripe.com/28obKL8sbbgy0ow8ww)
 
 ## Meme of the month
 
