@@ -14,7 +14,7 @@ I am a full-time software engineer working with primarally web-development and l
 
 ## Donate (I am poor)
 
-<iframe src="https://buymebeer.grimfilerino.com/public/iframe/buymebeer" frameborder="0" style="height: 250px; overflow:scroll; width: 30%">
+[![Buy me a beer](https://github.com/GrimFilerino/GrimFilerino/buymebeer.webp)](https://donate.stripe.com/28obKL8sbbgy0ow8ww)
 
 ## Meme of the month
 
