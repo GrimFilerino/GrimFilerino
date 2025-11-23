@@ -18,4 +18,4 @@ I am a full-time software engineer working with primarally web-development and l
 
 ## Meme of the month
 
-![Image](https://media.licdn.com/dms/image/v2/D4E22AQEIfKW0JwMAFw/feedshare-shrink_800/B4EZfPdXeuGcAg-/0/1751532272082?e=1761177600&v=beta&t=HBg8zk2fcNy-5KtngBlh-WC166K0Ez7IQq7a9byaYjc)
+![Image](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fassets-global.website-files.com%2F5f3c19f18169b62a0d0bf387%2F60d33be8cf4ba7565123c8bc_YPD3ulQQAGQpOcnqIm3QzSTRgzmr1SexpW9ZjMpJ1mAnUxx4iF05XOTu44sk0qQG-8XgBcYmGZGAD-5SAZvJl3TjtmhgWnn-w0C2XKwhBscV78RVvhwZfyp0v_Pa6sNj5zxpOvRW.png&f=1&nofb=1&ipt=d39653ca1103d4688845803f990012807e7ec5e329eddaeb09f0307fc2a5dcda)
