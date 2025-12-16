@@ -15,7 +15,3 @@ I am a full-time software engineer working with primarally web-development and l
 ## Donate (I am poor)
 
 [![Buy me a beer](https://img.shields.io/badge/buy_me_beer-grimfilerino?style=for-the-badge&logo=homebrew&logoColor=black&logoSize=200&labelColor=fa9b0e&color=fa9b0e)](https://donate.stripe.com/28obKL8sbbgy0ow8ww)
-
-## Meme of the month
-
-![Image](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fassets-global.website-files.com%2F5f3c19f18169b62a0d0bf387%2F60d33be8cf4ba7565123c8bc_YPD3ulQQAGQpOcnqIm3QzSTRgzmr1SexpW9ZjMpJ1mAnUxx4iF05XOTu44sk0qQG-8XgBcYmGZGAD-5SAZvJl3TjtmhgWnn-w0C2XKwhBscV78RVvhwZfyp0v_Pa6sNj5zxpOvRW.png&f=1&nofb=1&ipt=d39653ca1103d4688845803f990012807e7ec5e329eddaeb09f0307fc2a5dcda)
