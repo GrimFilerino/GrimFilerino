@@ -18,6 +18,6 @@ I am a full-time software engineer working with primarally web-development and l
 )](https://grimfilerino.itch.io)
 
 
-## Donate (I am poor)
+## Dontate
 
 [![Buy me a beer](https://img.shields.io/badge/buy_me_beer-grimfilerino?style=for-the-badge&logo=homebrew&logoColor=black&logoSize=200&labelColor=fa9b0e&color=fa9b0e)](https://donate.stripe.com/28obKL8sbbgy0ow8ww)
