@@ -18,4 +18,4 @@ I code stuff that I like and think is fun.
 
 ### Languages
 
-![GitHub Profile Languages - Bar](https://github-profile-languages-ten.vercel.app/api/bar?width=830&theme=dark)
+![GitHub Profile Languages - Bar](https://github-profile-languages-qt0rwb7v5-grimfilerinos-projects.vercel.app/api/bar?width=830&theme=dark)
