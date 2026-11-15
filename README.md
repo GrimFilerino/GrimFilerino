@@ -14,8 +14,3 @@ I code stuff that I like and think is fun.
 <!-- [![itch.io](https://img.shields.io/badge/itch.io-grimfilerino?style=for-the-badge&logo=itchdotio&logoColor=ffffff&logoSize=200&labelColor=FA5C5C&color=FA5C5C&cacheSeconds=1
 )](https://grimfilerino.itch.io) -->
 <!-- [![blog](https://img.shields.io/badge/my_blog-grimfilerino?style=for-the-badge&logo=bloglovin&logoColor=ffffff&logoSize=200&labelColor=FF2500&color=FF2500&cacheSeconds=1)](https://blog.grimfilerino.com/) -->
-
-
-### Languages
-
-![GitHub Profile Languages - Bar](https://github-profile-languages-qt0rwb7v5-grimfilerinos-projects.vercel.app/api/bar?width=830&theme=dark)
